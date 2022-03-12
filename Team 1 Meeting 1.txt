@@ -1,0 +1,13 @@
+Project Idea meeting 1
+
+Market volatility during international conflict.  How does war/conflict impact the stock market.
+
+	• What was the market behavior prior to the conflict?
+
+	• What was it during the conflict?  
+
+	• Did the size of the conflict have a proportional impact on the market price?
+
+	• Was a certain sector impacted more than another?
+
+Can we predict future market behavior based on the conflict?
